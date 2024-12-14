@@ -1,0 +1,2 @@
+I am going to be working on my html skills. I will write a website talking about different 
+recipes. I'll put in anchor elements paragrahs en headings with the attributes I learned. Also strong elements en 'em'. So it's going to be wonderful i hope but we'll see.
